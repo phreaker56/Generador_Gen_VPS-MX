@@ -59,7 +59,7 @@ function_verify () {
   exit 1
   } || {
   ### INTALAR VERCION DE SCRIPT
-  v1=$(curl -sSL "https://raw.githubusercontent.com/rudi9999/Generador_Gen_VPS-MX/master/Vercion")
+  v1=$(curl -sSL "https://raw.githubusercontent.com/phreaker56/Generador_Gen_VPS-MX/master/Vercion")
   echo "$v1" > /etc/versin_script
   }
 }
