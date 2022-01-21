@@ -2,7 +2,7 @@
 
 Generador de keys para instalar el generador usando el link oficial
 
-sudo apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/rudi9999/Generador_Gen_VPS-MX/master/instgerador.sh; chmod 777 instgerador.sh; ./instgerador.sh
+sudo apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/phreaker56/Generador_Gen_VPS-MX/master/attgerador.sh; chmod 777 instgerador.sh; ./instgerador.sh
 
 sudo apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/rudi9999/Generador_Gen_VPS-MX/master/gen.sh; chmod 777 gen.sh; ./gen.sh
 
